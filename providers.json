@@ -3,30 +3,6 @@
     "name": "vegamovies",
     "url": "https://app.vegamovies.bot"
   },
-  "lux": {
-    "name": "luxmovies",
-    "url": "https://rogmovies.lol"
-  },
-  "drive": {
-    "name": "moviesDrive",
-    "url": "https://moviesdrive.solutions/"
-  },
-  "multi": {
-    "name": "multimovies",
-    "url": "https://multimovies.digital"
-  },
-  "w4u": {
-    "name": "world4ufree",
-    "url": "https://world4ufree.rodeo"
-  },
-  "extra": {
-    "name": "extraMovies",
-    "url": "https://extramovies.ist"
-  },
-  "hdhub": {
-    "name": "hdhub4u",
-    "url": "https://hdhub4u.football"
-  },
   "kat": {
     "name": "katmovieshd",
     "url": "https://katmoviehd.blue"
